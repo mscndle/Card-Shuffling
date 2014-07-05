@@ -1,6 +1,5 @@
 /**
  * This class attempts to represent a deck of cards in a better way than in SimpleShuffleRandom
- *
  * Suits and Ranks are written as 2 separate enums
  */
 
